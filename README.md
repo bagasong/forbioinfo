@@ -1,7 +1,7 @@
 # forbioinfo
-for moya
 
-this program is design to make this:
+intentionally designed for moya,
+this program is designed to make this:
 
 BSDFG
 <br>SFGIE
@@ -23,4 +23,4 @@ into this:
 <br>G
 <br>F
 
-download the single character spillter.exe for the program
+download the single_char_spillter.exe for the program
