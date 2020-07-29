@@ -1,0 +1,14 @@
+C:\Users\Bagas\source\repos\buatlo\obj\Debug\buatlo.csprojAssemblyReference.cache
+C:\Users\Bagas\source\repos\buatlo\obj\Debug\buatlo.Form1.resources
+C:\Users\Bagas\source\repos\buatlo\obj\Debug\buatlo.Properties.Resources.resources
+C:\Users\Bagas\source\repos\buatlo\obj\Debug\buatlo.csproj.GenerateResource.cache
+C:\Users\Bagas\source\repos\buatlo\obj\Debug\buatlo.csproj.CoreCompileInputs.cache
+C:\Users\Bagas\source\repos\buatlo\bin\Debug\buatlo.exe.config
+C:\Users\Bagas\source\repos\buatlo\bin\Debug\buatlo.exe
+C:\Users\Bagas\source\repos\buatlo\bin\Debug\buatlo.pdb
+C:\Users\Bagas\source\repos\buatlo\obj\Debug\buatlo.exe
+C:\Users\Bagas\source\repos\buatlo\obj\Debug\buatlo.pdb
+C:\Users\Bagas\source\repos\buatlo\bin\Debug\buatlo.exe.manifest
+C:\Users\Bagas\source\repos\buatlo\bin\Debug\buatlo.application
+C:\Users\Bagas\source\repos\buatlo\obj\Debug\buatlo.exe.manifest
+C:\Users\Bagas\source\repos\buatlo\obj\Debug\buatlo.application
