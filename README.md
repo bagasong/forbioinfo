@@ -4,23 +4,23 @@ for moya
 this program is design to make this:
 
 BSDFG
-SFGIE
-S
-GF
+<br>SFGIE
+<br>S
+<br>GF
 
 into this:
 
-B
-S
-D
-G
-S
-F
-G
-I
-E
-S
-G
-F
+<br>B
+<br>S
+<br>D
+<br>G
+<br>S
+<br>F
+<br>G
+<br>I
+<br>E
+<br>S
+<br>G
+<br>F
 
 download the single character spillter.exe for the program
